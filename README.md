@@ -1,4 +1,4 @@
-# doryoku
+# cirisu
 
 A new Flutter project.
 WIP
