@@ -1,3 +1,3 @@
 # cirisu
 
-An app to help small businesses have an online presence
+An app to help small businesses have an online presence 
